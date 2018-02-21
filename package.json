@@ -1,0 +1,19 @@
+{
+  "name": "library-metronic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinhLiv97/library-metronic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinhLiv97/library-metronic/issues"
+  },
+  "homepage": "https://github.com/LinhLiv97/library-metronic#readme"
+}
